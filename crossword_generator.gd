@@ -1,3 +1,6 @@
+# Author: Rocket007
+# Additional credits: Michael Wehar
+# MIT License
 
 extends Node2D
 
