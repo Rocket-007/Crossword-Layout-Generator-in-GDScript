@@ -3,7 +3,35 @@
 Given a list of words, how would you go about arranging them into a cross word grid?
 
 
-## this is based on [Michael Wehar's](https://github.com/MichaelWehar/Crossword-Layout-Generator) JavaScript crossword generator
+## DISCLAIMER
+The port is not 100% perfect, here what i mean:
+
+Given an input like this:  
+![Example Output](https://github.com/Rocket-007/Crossword-Layout-Generator-in-GDScript/blob/main/screenshots/generator%20first%20exp%20input.png)
+
+you will get this in the layout.table  
+![Example Output](https://github.com/Rocket-007/Crossword-Layout-Generator-in-GDScript/blob/main/screenshots/generator%20first%20exp%20output.png)
+
+
+Not much of a problem right?, but when given an input  
+![Example Output](https://github.com/Rocket-007/Crossword-Layout-Generator-in-GDScript/blob/main/screenshots/generator%20first%20exp2%20input.png)
+
+bruhh, you get this shhii...   
+![Example Output](https://github.com/Rocket-007/Crossword-Layout-Generator-in-GDScript/blob/main/screenshots/generator%20first%20exp2%20output.png)
+
+
+  
+If you think this is what you can work with then be my guest  
+otherwise head over to this [repository](https://github.com/Rocket-007/Crossword-Layout-Generator-in-GDScript-better-verson-) where i made a better one :3 
+
+ok continue reading
+
+
+
+
+
+
+## this is port on [Michael Wehar's](https://github.com/MichaelWehar/Crossword-Layout-Generator) JavaScript crossword generator
 
 
 
