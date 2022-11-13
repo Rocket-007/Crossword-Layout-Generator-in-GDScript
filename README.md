@@ -4,7 +4,7 @@ Given a list of words, how would you go about arranging them into a cross word g
 
 
 ## DISCLAIMER
-This port is not 100% perfect, here"s what i mean:
+The port is not 100% perfect, here"s what i mean:
 
 Given an input like this:  
 ![Example Output](https://github.com/Rocket-007/Crossword-Layout-Generator-in-GDScript/blob/main/screenshots/generator%20first%20exp%20input.png)
